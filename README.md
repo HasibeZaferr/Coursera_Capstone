@@ -1,3 +1,2 @@
-# Coursera_Capstone
-
-City of Toronto, you will segment it into different neighborhoods using the geographical coordinates of the center of each neighborhood, and then using a combination of location data and machine learning, you will group the neighbourhoods into clusters like this.
+# Battle of the Neighborhood
+This project will utilize the location data from Foursquare by making RESTful API calls to the Foursquare API to retrieve data about venues in different neighborhoods around the world. The data are not readily available by scraping web data and parsing HTML code. This project will utilize Python and its pandas library to manipulate data, exploring and analyzing data.
